@@ -392,14 +392,6 @@ This project is created for educational purposes as part of the CODTECH Internsh
 - **Framework:** Scikit-learn
 - **Visualization:** Matplotlib & Seaborn
 
----
-
-## 📞 PROJECT INFO
-
-**Project:** Decision Tree Classification
-**Task:** CODTECH Internship Task 1
-**Deliverable:** Notebook with model visualization and analysis
-**Status:** ✅ Complete
 
 ---
 
